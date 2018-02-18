@@ -32,3 +32,4 @@ John is an experienced consultant and trainer specialising in Enterprise Java, W
 This is an additional line
 new line added
 my second change
+my third line
